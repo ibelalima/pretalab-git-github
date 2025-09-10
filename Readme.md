@@ -5,3 +5,5 @@ A primeira aula apresentou o conceito de Git e a sua importância na comunidade 
 
 ## Segunda aula sobre GitHub e Chave SSH
 Ativamos a chave e incluímos a chave pública no GitHub.
+
+## Terceira aula conectando o Git com o Github
