@@ -8,6 +8,8 @@ Ativamos a chave e incluímos a chave pública no GitHub.
 
 ## Terceira aula conectando o Git com o Github
 
+Criamos repositório remoto e conectamos ao git.
+
 
 
 # Segunda semana Git avançado
